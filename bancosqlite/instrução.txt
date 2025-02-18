@@ -1,4 +1,1 @@
-estudar panda 
-    sqlaalchmy
 
-pegar dados devlolver um json
